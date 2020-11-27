@@ -10,7 +10,7 @@ public class Account{
 	private static double balance = 0;
 
 	
-	System.out.println ("fabricexzd");
+	System.out.println ("fabricexzdfewfe");
 	public static void credit(double amount) {
 		
 		balance = balance + amount;
